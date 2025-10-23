@@ -1,0 +1,8 @@
+---
+title: "workshops"
+listing:
+  contents: workshops
+  type: default
+format: html
+---
+

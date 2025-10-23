@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "resources",
+    "section": "",
+    "text": "ResTech\nStats Central\nEnvironmental Computing\nUNSW Hacky Hour\nRLadies Sydney"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Dr. José R. Ferrer-Paris\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home page",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "workshops/2021-07-30-randomforest/index.html#resources-created-by-jr",
+    "href": "workshops/2021-07-30-randomforest/index.html#resources-created-by-jr",
+    "title": "Introduction to Classification Trees and Random Forests in R",
+    "section": "Resources created by JR",
+    "text": "Resources created by JR\nThis GitHub repository! contains all the material discussed in the workshop and will help you follow the recording. This includes a short presentation on using decision trees to describe rules for classifying data, and how multiple, randomized trees can get us to more accurate classifications. Then two R-markdown document are available to guide you through the code needed to fit classification trees and Random Forests using popular R packages."
+  },
+  {
+    "objectID": "workshops/2021-07-30-randomforest/index.html#additional-resources",
+    "href": "workshops/2021-07-30-randomforest/index.html#additional-resources",
+    "title": "Introduction to Classification Trees and Random Forests in R",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nDavis David: Random Forest Classifier Tutorial - How to Use Tree-Based Algorithms for Machine Learning\nEvan Muzzall and Chris Kennedy: Introduction to Machine Learning in R\nGithub link: Machine Learning in R\nGithub link: Machine Learning with Tidymodels\nDave Tang: Building a classification tree in R\nZach @ Statology: How to Fit Classification and Regression Trees in R\nBen Gorman: Decision Trees in R using rpart\nVictor Zhou: Random Forests for Complete Beginners\nBradley Boehmke & Brandon Greenwell: Hands-On Machine Learning with R\nJulia Kho: Why Random Forest is My Favorite Machine Learning Model\nJanBask: Training A Practical guide to implementing Random Forest in R with example"
+  },
+  {
+    "objectID": "workshops/2022-08-01-Katana/index.html#requirements",
+    "href": "workshops/2022-08-01-Katana/index.html#requirements",
+    "title": "Katana For R",
+    "section": "Requirements:",
+    "text": "Requirements:\nThis workshop assumes introductory level of R (installing/loading packages, reading/writing data, running own analyses and understanding of file paths, working directories).\n\nAttendees must apply for an account to access Katana, please complete this a week prior to the workshop:\n\nTo apply for an account you can send an email to the\n\nUNSW IT Service Center giving your zID, your role within UNSW and the name of your supervisor or head of your research group."
+  },
+  {
+    "objectID": "workshops/2022-08-01-Katana/index.html#presenter-bio",
+    "href": "workshops/2022-08-01-Katana/index.html#presenter-bio",
+    "title": "Katana For R",
+    "section": "Presenter bio:",
+    "text": "Presenter bio:\nFonti is a postdoctoral research fellow at University of New South Wales, Sydney, Australia. She is an evolutionary biologist at heart but is currently working as an R package developer. Fonti works alongside researchers to develop R software tools for the research community. Her interests include biostatistics, reproducible science, learning about the latest coding practices and teaching others to enjoy using R."
+  },
+  {
+    "objectID": "workshops/2021-11-01-Git/index.html",
+    "href": "workshops/2021-11-01-Git/index.html",
+    "title": "Version Control with Git",
+    "section": "",
+    "text": "Participants should register for a Github account Github Register.\nand download Github Desktop Github Desktop."
+  },
+  {
+    "objectID": "workshops/2022-10-24-MetaAnalysis/index.html#presenter-bio",
+    "href": "workshops/2022-10-24-MetaAnalysis/index.html#presenter-bio",
+    "title": "Intro to Meta Analysis in R",
+    "section": "Presenter bio:",
+    "text": "Presenter bio:\nErin is an evolutionary biologist in the Inter-Disciplinary Ecology and Evolution Lab working with Prof Shinichi Nakagawa. She frequently conducts meta-analyses to synthesise the literature and address hypotheses related to evolutionary ecology. She has also dabbled in other disciplines including psychology and climate change."
+  },
+  {
+    "objectID": "workshops/2022-09-26-dataviz_ggplot2_themes/index.html",
+    "href": "workshops/2022-09-26-dataviz_ggplot2_themes/index.html",
+    "title": "Data Visualization - ggplot themes in R",
+    "section": "",
+    "text": "Workshop description: Tired of ggplot2’s default colour palette and grey background? Want to change the typeface of your text? Wondering how to spice up your legend? While ggplot2 is undoubtedly one of the best packages to visualise data, we seldom make the most out of its themes and customisation options. Using different themes can help improve the aesthetics of our figures and add visual interest to our audience. In this workshop, you will learn how to create and apply your own customised themes to your figures.\nPresenter Bio: Jess is a PhD candidate at UNSW, Sydney. Their project focuses on using artificial intelligence to automatically classify species of animals in camera trap images, and track their behaviour with video recordings."
+  },
+  {
+    "objectID": "workshops/2022-07-03-Getting Started - What R and the Tidyverse can do for you/index.html",
+    "href": "workshops/2022-07-03-Getting Started - What R and the Tidyverse can do for you/index.html",
+    "title": "Getting Started - What R and the Tidyverse can do for you",
+    "section": "",
+    "text": "abstract: R is becoming a standard method for analysing data yet at first R can be overwhelming and may seem like a foreign language. In this workshop, you will be introduced to the coding language R, the software RStudio, and a tool called the tidyverse. You will learn how to import, manipulate and analyse a dataset using practical examples.This workshop is designed to get you started, demonstrate what is possible, and give you resources for further learning. The workshop is targeted at Honour’s and postdoc students, but is suitable for anyone who has ever wondered, “What is this R thing everyone keeps talking about?”."
+  },
+  {
+    "objectID": "workshops/2022-06-22-Data_Wrangling/index.html",
+    "href": "workshops/2022-06-22-Data_Wrangling/index.html",
+    "title": "Data Wrangling Workshop",
+    "section": "",
+    "text": "How do hyper-diverse communities of plants emerge and seemingly persist without driving each other to extinction? This is the question that motivates my recent research, from my PhD at the University of Queensland where I studied tiny annual wildflowers in the Western Australian wheatbelt, to my postdoc at UNSW where I am investigating how colossal eucalypts communities will respond to climate change. Data wrangling, computer programming and statistical analysis have been critical tools in addressing my research questions, and I am excited to share these tools with you!"
+  },
+  {
+    "objectID": "workshops/2021-07-05-blogdown/index.html#resources-created-by-jenny-and-tehilla",
+    "href": "workshops/2021-07-05-blogdown/index.html#resources-created-by-jenny-and-tehilla",
+    "title": "Blogdown and Making Websites in R",
+    "section": "Resources created by Jenny and Tehilla",
+    "text": "Resources created by Jenny and Tehilla\n\nSee the links above for the slides and the recording from the workshop\nYou can find the material for this workshop on Github here!\nJenny and Tehilla have posted tutorials on YouTube for how to build an academic website using R blogdown. You can check out our YouTube Playlist here. More videos to come!\nYou can also check out Jenny’s blog for a step-by-step guide for building an academic website\nThe PDF link has a copy of the slides from the workshop"
+  },
+  {
+    "objectID": "workshops/2021-07-05-blogdown/index.html#additional-resources",
+    "href": "workshops/2021-07-05-blogdown/index.html#additional-resources",
+    "title": "Blogdown and Making Websites in R",
+    "section": "Additional Resources",
+    "text": "Additional Resources\n\nWe also highly recommend checking out Alison Hill’s blogdown blog. This is an incredibly useful resource and definitely helped me learn how to use blogdown\nAnd finally here’s an r-bloggers website with useful information on Hugo and blogdown"
+  },
+  {
+    "objectID": "workshops/2022-11-07-Phylogenetic-trees/index.html",
+    "href": "workshops/2022-11-07-Phylogenetic-trees/index.html",
+    "title": "Phylogenetic trees",
+    "section": "",
+    "text": "This workshop will:\n\ntake you through an R workflow to produce phylogenetic trees with rooted tree branch lengths\nhelp you find ecological trait data\nshow you how to map that trait data to your rooted phylogenetic tree\n\nThe code you’ll learn can be used for producing many types of phylogenetic trees, with any numerical species trait\nPresenter: PhD candidate Ben Walker\nPresenter Bio: Ben is an evolutionary ecologist who studies how animals make sounds"
+  },
+  {
+    "objectID": "workshops/2022-04-04-GeoSpatial/index.html",
+    "href": "workshops/2022-04-04-GeoSpatial/index.html",
+    "title": "Geospatial Data in R",
+    "section": "",
+    "text": "Spatial data is essential for understanding many phenomena in natural and social sciences, and maps are used in a variety of fields to visualise data and results in an appealing and interpretive way. I have been dealing with spatial data with (and without) R for nearly 20 years, using a variety of packages and approaches that have evolved over time, regularly finding challenges and new solutions. In this workshop I will demostrate how current integration of R with external libraries like leaflet or plotly make interactive mapping easier (and nicer!) than ever"
+  },
+  {
+    "objectID": "workshops.html",
+    "href": "workshops.html",
+    "title": "workshops",
+    "section": "",
+    "text": "Blogdown and Making Websites in R\n\n\n\n\n\nThis workshop invites R users with basic/intermediate knowledge who are interested in learning how to build a personal website using the Blogdown package (no prior knowledge with Blogdown is required). \n\n\n\n\n\nJul 16, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualisation with ggplot\n\n\n\n\n\nIn this workshop we aim to give you a taste of what data visualisations are possible in R. We will dazzle you with an introduction to graphics creation using ggplot before changing how you see data using some core graphical principles. \n\n\n\n\n\nOct 11, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization - ggplot themes in R\n\n\n\n\n\n\n\n\n\n\n\nSep 26, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nData Wrangling Workshop\n\n\n\n\n\n\n\n\n\n\n\nJun 20, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nGeospatial Data in R\n\n\n\n\n\n\n\n\n\n\n\nMar 25, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nGetting Started - What R and the Tidyverse can do for you\n\n\n\n\n\n\n\n\n\n\n\nMar 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Meta Analysis in R\n\n\n\n\n\nIn this workshop, we will first go through the ‘workflow’ of what a meta-analysis in R entails. We will then run through some code together on a sample dataset to get a global effect size and heterogeneity, as well as run some meta-regression analyses of potentially important moderator variables. We will also create some plots that are commonly used in meta-analyses. The code we learn in this workshop can be adapted to any meta-analysis dataset from any field.\n\n\n\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Classification Trees and Random Forests in R\n\n\n\n\n\n“Random Forests” are used everywhere, and for good reason! Random Forest is a powerful and versatile machine learning algorithm that grows and combines multiple decision trees to create a “forest”. It sounds very complex, but learning to use them is very intuitive, especially if you have a USNW codeRs workshop to help you. \n\n\n\n\n\nJul 30, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nKatana For R\n\n\n\n\n\nWe live in a data-driven era, where collecting large amounts of information is becoming increasingly more accessible. There is now an unprecedented demand for more flexible and powerful computational tools in order to understand our data. The UNSW Katana computer cluster fulfils this criteria by providing student and staff computational resources to aid their research. One major benefit of Katana is the ability for users to run their computationally heavy analyses remotely - this frees up their own computer for other tasks. While Katana has been described as ‘easy to access’, the initial learning curve can be daunting. In this workshop, I will guide attendees on how to getting started with Katana and how to run analyses on it. I will focus on the application of Katana in the context of ‘R’ analyses, however there over 100 different software available for users to explore. I hope attendees can walk away from this workshop feeling more confident and equipped to use this untapped resource. \n\n\n\n\n\nAug 1, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nLoops and beyond: Elegant iteration with the purrr package\n\n\n\n\n\nWhy should I purrr? Scientific research is often a “broken record” game: we must repeat the same calculations over and over again. In this inaugural UNSW codeRs workshop, Aniko will teach you have to repeat yourself efficiently in R without using copy-paste. \n\n\n\n\n\nMay 16, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nPhylogenetic trees\n\n\nHow to find them and make them pretty\n\n\nPhylogenetic trees: How to find them and make them pretty \n\n\n\n\n\nNov 7, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nVersion Control with Git\n\n\n\n\n\nHave you ever broken your code and/or lost track of the changes you’ve made? Have you ever trawled through your manual back ups to find some files you’ve hidden away? Have your collaborators ever emailed you code fixes and you struggle to see what has been updated? Maybe Git can help! Git is software for tracking changes in any set of files and also for coordinating work among collaborators. This workshop was designed for beginners and will guide participants in setting up git. We walked through some key git concepts then, put these into into practice during an interactive session.\n\n\n\n\n\nNov 1, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nWhat R and the Tidyverse can do for you\n\n\n\n\n\nR is becoming a standard method for analysing data, yet at first R can be overwhelming and may seem like a foreign language. In this workshop, you will be introduced to the coding language R, the software RStudio, and a tool called tidyverse. \n\n\n\n\n\nAug 30, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Who are we?\nUNSW coders is a student and staff run community dedicated for ‘R’ users for anyone who wants to further develop their coding skills. It is our goal to create a safe and open space for members to share and gain new experiences relating to R, coding and statistics.\n\n\nWhat do we do?\nUNSW coders host events that catered for those who are just learning their way around R as well as those who are more proficient R users.\nWe meet on a fortnightly basis, alternating between workshops and drop-in help sessions.\nOur members as well as external speakers are invited to run short workshops that are centered around R and coding skills with the hopes to advance our members’ knowledge base in addition to fostering networking opportunities.\nIn our drop-in help sessions, members can bring their own code and work alongside our helpers to troubleshoot their problem(s).\nOur community also hosts other social events that revolve around R and coding based activites such as ‘Tidy Tuesdays’, ‘Repo Hacks’, ‘Share your code’, ‘Stats chats’ and social events such as bake offs, morning/afternoon teas and BBQs!\n\n\nWhere do we see ourselves going?\nLife at university is dynamic. People complete their UNSW candidatures and move on to their next chapters. We hope UNSW coders will continue to grow and recruit new members and become a self-sustainable community driven by the support, passion and curiosity of our members."
+  },
+  {
+    "objectID": "people/joseferrer/index.html",
+    "href": "people/joseferrer/index.html",
+    "title": "Dr. José R. Ferrer-Paris",
+    "section": "",
+    "text": "José is currently Research Fellow at the Center for Ecosystem Science at UNSW, and a member of the International Union for the Conservation of Nature (IUCN) Thematic Group on Red List of Ecosystems. He completed his studies in Germany and Venezuela and has research experience in biodiversity monitoring and eco-informatics in Venezuela :venezuela: and South Africa :south_africa:. His research focuses on biodiversity monitoring, species distribution modelling, and risk assessments for species and ecosystems. He has designed, implemented and managed databases of biological data and integrated this data into workflows for reporting and analysis. José’s current work involves the organisation of existing ecological data, monitoring networks, and expert’s knowledge on ecosystem to find spatial and temporal predictors for estimating the status and trends in ecosystem’s distribution and functions."
+  }
+]

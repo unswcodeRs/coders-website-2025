@@ -1,0 +1,8 @@
+---
+title: "People"
+listing:
+  contents: people
+  type: default
+format: html
+---
+
