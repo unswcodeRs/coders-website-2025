@@ -1,8 +1,10 @@
 ---
-title: "workshops"
+title: "Workshops & events"
 listing:
   contents: workshops
   type: default
+  sort: "date desc"
 format: html
 ---
 
+This is a collection of workshop announcements and resources from previous UNSW codeRs events.

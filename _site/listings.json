@@ -8,19 +8,20 @@
   {
     "listing": "/workshops.html",
     "items": [
-      "/workshops/2021-07-05-blogdown/index.html",
-      "/workshops/2021-10-11-data_vis/index.html",
+      "/workshops/2025-05-29-mixeR/index.html",
+      "/workshops/2022-11-07-Phylogenetic-trees/index.html",
+      "/workshops/2022-10-24-MetaAnalysis/index.html",
       "/workshops/2022-09-26-dataviz_ggplot2_themes/index.html",
+      "/workshops/2022-08-01-Katana/index.html",
       "/workshops/2022-06-22-Data_Wrangling/index.html",
       "/workshops/2022-04-04-GeoSpatial/index.html",
       "/workshops/2022-07-03-Getting Started - What R and the Tidyverse can do for you/index.html",
-      "/workshops/2022-10-24-MetaAnalysis/index.html",
-      "/workshops/2021-07-30-randomforest/index.html",
-      "/workshops/2022-08-01-Katana/index.html",
-      "/workshops/2021-03-22-purrr/index.html",
-      "/workshops/2022-11-07-Phylogenetic-trees/index.html",
       "/workshops/2021-11-01-Git/index.html",
-      "/workshops/2021-30-08-Basic_and_Tidyverse_copy/index.html"
+      "/workshops/2021-10-11-data_vis/index.html",
+      "/workshops/2021-30-08-Basic_and_Tidyverse_copy/index.html",
+      "/workshops/2021-07-30-randomforest/index.html",
+      "/workshops/2021-07-05-blogdown/index.html",
+      "/workshops/2021-03-22-purrr/index.html"
     ]
   }
 ]

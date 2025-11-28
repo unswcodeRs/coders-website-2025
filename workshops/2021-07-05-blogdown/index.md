@@ -1,21 +1,14 @@
 ---
 date: "2021-07-16"
 title: "Blogdown and Making Websites in R"
-url_pdf: blogdown.pdf
-links:
-- icon: video
-  # icon_pack: fas
-  name: Workshop Recording 
-  url: https://bit.ly/2Vlrdno
-- icon: github
-  icon_pack: fab
-  name: github Material
-  url: https://github.com/UNSW-codeRs/Blogdown-Workshop
+author:
+  - Jenny Sloane
+  - Tehilla Ostrovsky 
 abstract: |
   This workshop invites R users with basic/intermediate knowledge who are interested in learning how to build a personal website using the Blogdown package (no prior knowledge with Blogdown is required).
 ---
 
-<img src="blogdown.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
+![](blogdown.png)
 
 ## Resources created by Jenny and Tehilla  
 - See the links above for the slides and the recording from the workshop
@@ -30,6 +23,16 @@ abstract: |
 
 
 
+### Links
+
+- icon: video
+  # icon_pack: fas
+  name: Workshop Recording 
+  url: https://bit.ly/2Vlrdno
+- icon: github
+  icon_pack: fab
+  name: github Material
+  url: https://github.com/UNSW-codeRs/Blogdown-Workshop
 
 
 

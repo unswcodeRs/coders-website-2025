@@ -1,17 +1,17 @@
 ---
 date: "2022-11-07"
 title: "Phylogenetic trees"
+author: Ben Walker
 subtitle: "How to find them and make them pretty"
-links:
-- icon: github
-  icon_pack: fab
-  name: github Material
-  url: https://github.com/UNSW-codeRs/phylo-trees
-
 abstract: |
   Phylogenetic trees: How to find them and make them pretty
 ---
-<img src="Phylogenetic_trees.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;">
+
+![](Phylogenetic_trees.png)
+
+:::{.aside}
+***Presenter Bio***: Ben is an evolutionary ecologist who studies how animals make sounds
+:::
 
 This workshop will:
 
@@ -21,6 +21,7 @@ This workshop will:
 
 The code you'll learn can be used for producing many types of phylogenetic trees, with any numerical species trait
 
-Presenter: PhD candidate Ben Walker
+### Links
 
-Presenter Bio: Ben is an evolutionary ecologist who studies how animals make sounds
+- [github Material](https://github.com/UNSW-codeRs/phylo-trees)
+
