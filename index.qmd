@@ -3,7 +3,7 @@ title: "UNSW codeRs"
 page-layout: full
 title-block-banner: true
 title-block-banner-color: "#003b5c"   # UNSW-ish dark blue
-title-block-banner-opacity: 0.90
+title-block-banner-opacity: 0.40
 subtitle: "A community for R users at UNSW"
 description: "UNSW codeRs is a volunteer-run club that supports R users at UNSW through workshops, mentoring, online learning modules, and a friendly help channel."
 format:
@@ -13,7 +13,8 @@ format:
       dark: darkly
     toc: false
 ---
-<div class="topbar">UNSW codeRs</div>
+
+
 
 ::: {.hero}
 Welcome to **UNSW codeRs** — a volunteer-run club at UNSW for anyone who uses (or wants to use) R for study, research, or fun.
@@ -28,63 +29,58 @@ We run regular workshops, maintain online resources, and provide a friendly spac
 
 ---
 
+
 ## What we do
 
-:::{.columns}
-::: {.column}
+
+::: {.what-grid}
+
+::: {.card .h-100}
+![](images/workshops.jpg){.card-img-top .modules-img}
+
+::: {.card-body}
 ### Workshops
+Hands-on R workshops during term and intensives between terms, covering
+R basics, data wrangling, visualisation, modelling, and more.
 
-We run hands-on R workshops during term and intensives between terms.  
-Topics range from:
-
-- R basics and data wrangling  
-- Data visualisation  
-- Reproducible research and Quarto  
-- Modelling, statistics, and more  
-
-Whether you’re just starting out or looking to level up, there’s something for you.
-:::
-
-::: {.column}
-### Online learning modules
-
-Prefer self-paced learning?  
-
-We’re building a set of short, focused modules you can work through any time, including:
-
-- **Intro to R & RStudio**
-- **Data wrangling with dplyr**
-- **Plotting with ggplot2**
-- **Projects with Quarto**
-
-Each module includes code examples, exercises, and links to further reading.
+[View workshops](workshops.qmd){.btn .btn-outline-primary .btn-sm}
 :::
 :::
 
-:::{.columns}
-::: {.column}
-### Mentoring program
+::: {.card .h-100}
+![](images/modules.png){.card-img-top .modules-img}
 
-Our mentoring program connects newer R users with more experienced students and researchers.
+::: {.card-body}
+### Online modules
+Self-paced R learning modules on R &amp; RStudio, dplyr, ggplot2, Quarto, and more.
 
-- One-on-one or small-group mentoring  
-- Goal-based support (assignments, research, portfolios)
-- Light-weight and flexible — you set the pace
-
+[Browse modules](modules.qmd){.btn .btn-outline-primary .btn-sm}
+:::
 :::
 
-::: {.column}
+::: {.card .h-100}
+![](images/mentoring.jpg){.card-img-top .modules-img}
+
+::: {.card-body}
+### Mentoring
+One-on-one or small-group mentoring with more experienced R users.
+
+[Mentoring info](mentoring.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.card .h-100}
+![](images/help-community.jpg){.card-img-top .modules-img}
+
+::: {.card-body}
 ### Help & community
+A friendly help channel and community events for asking questions,
+debugging code, and sharing tips.
 
-Got stuck on a bug? Not sure how to start an analysis?
-
-We host a **help channel** where you can:
-
-- Ask questions (no question is too small)  
-- Get feedback on your code  
-- Share tips and resources  
-
+[Get help](help.qmd){.btn .btn-outline-primary .btn-sm}
 :::
+:::
+
 :::
 
 ---
@@ -199,7 +195,7 @@ Because we’re **volunteer-run**, we always welcome:
 Stay up to date with workshops, modules, and opportunities:
 
 - Follow our announcements on the club channels  
-- Join the mailing list (if available)  
+- Join the mailing list 
 - Keep an eye on this site for new material  
 
 If you have ideas for workshops, modules, or collaborations, we’d love to hear from you.
