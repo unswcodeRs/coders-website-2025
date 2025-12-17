@@ -2,21 +2,22 @@ project:
   type: website
 
 website:
-  title: "UNSW codeRs website"
+  title: "UNSW codeRs"
   navbar:
-    left:
+    logo: images/logo.png       
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - workshops.qmd
-      - people.qmd
-      - resources.qmd
-
+      - href: about.qmd
+        text: About  
+      - href: workshops.qmd
+        text: Workshops
+      - href: resources.qmd
+        text: Resources
+      
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: flatly
     css: styles.css
     toc: true
 

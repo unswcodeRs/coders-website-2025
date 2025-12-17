@@ -1,11 +1,203 @@
 ---
-title: "Home page"
+title: "UNSW codeRs"
+page-layout: full
+title-block-banner: true
+title-block-banner-color: "#003b5c"   # UNSW-ish dark blue
+title-block-banner-opacity: 0.40
+subtitle: "A community for R users at UNSW"
+description: "UNSW codeRs is a volunteer-run club that supports R users at UNSW through workshops, mentoring, online learning modules, and a friendly help channel."
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    toc: false
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+::: {.hero}
+Welcome to **UNSW codeRs** — a volunteer-run club at UNSW for anyone who uses (or wants to use) R for study, research, or fun.
+
+We run regular workshops, maintain online resources, and provide a friendly space to ask questions, share projects, and learn together.
+:::
+
+::: {.mt-4 .mb-4}
+[Get involved](#get-involved){.btn .btn-primary .me-2}
+[View workshops](workshops.qmd){.btn .btn-outline-primary}
+:::
+
+---
+
+
+## What we do
+
+
+::: {.what-grid}
+
+::: {.card .h-100}
+![](images/workshops.jpg){.card-img-top .modules-img}
+
+::: {.card-body}
+### Workshops
+Hands-on R workshops during term and intensives between terms, covering
+R basics, data wrangling, visualisation, modelling, and more.
+
+[View workshops](workshops.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.card .h-100}
+![](images/modules.png){.card-img-top .modules-img}
+
+::: {.card-body}
+### Online modules
+Self-paced R learning modules on R &amp; RStudio, dplyr, ggplot2, Quarto, and more.
+
+[Browse modules](modules.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.card .h-100}
+![](images/mentoring.jpg){.card-img-top .modules-img}
+
+::: {.card-body}
+### Mentoring
+One-on-one or small-group mentoring with more experienced R users.
+
+[Mentoring info](mentoring.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.card .h-100}
+![](images/help-community.jpg){.card-img-top .modules-img}
+
+::: {.card-body}
+### Help & community
+A friendly help channel and community events for asking questions,
+debugging code, and sharing tips.
+
+[Get help](help.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+:::
+
+---
+
+## Upcoming workshops
+
+Our **workshop schedule** includes both on-campus and online events, plus occasional joint events with other groups.
+
+::: {.callout-note}
+### External workshop schedule
+
+We also maintain a curated list of external R workshops, conferences, and online events that might interest UNSW students and staff.
+
+[See the full workshop schedule](workshops.qmd)
+:::
+
+If you miss a session, you can still follow along with the materials later.
+
+---
+
+## Online learning modules
+
+Our online modules are designed to be:
+
+- **Chunked** – each module focuses on one idea  
+- **Practical** – lots of worked examples in R  
+- **Reproducible** – built with Quarto and R Markdown  
+
+A typical module includes:
+
+- A short overview of the topic  
+- Step-by-step examples in R  
+- Practice exercises  
+- Links to additional resources  
+
+---
+
+## Mentoring & peer support
+
+We believe people learn R best **together**.
+
+### Mentoring
+
+- Match with a mentor for a term  
+- Get help interpreting documentation and error messages  
+- Learn best practices for structuring projects and analyses  
+
+### Peer learning
+
+We also run occasional:
+
+- Code-along sessions  
+- Show-and-tell events  
+- Study groups around specific topics or packages  
+
+---
+
+## Get help with R
+
+If you’re stuck, you don’t have to stay stuck.
+
+We encourage you to:
+
+1. Share a minimal reproducible example (we can help you with this)  
+2. Tell us what you tried and what you expected  
+3. Paste in error messages (they’re useful, not embarrassing!)  
+
+You can reach our help channel via:
+
+- Club communication platforms (e.g. Teams)  
+- Drop-in help sessions (when scheduled)  
+
+---
+
+## Get involved
+
+Whether you’re brand-new to R or an experienced user, there’s a place for you in UNSW codeRs.
+
+:::{.columns}
+::: {.column}
+### If you’re new to R
+
+- Come to an **intro workshop**  
+- Try the **“Getting started with R”** module  
+- Join the help channel and say hi
+:::
+
+::: {.column}
+### If you already use R
+
+- Attend intermediate/advanced workshops  
+- Share your tricks in the help channel  
+- Contribute to modules or examples
+:::
+
+::: {.column}
+### If you want to volunteer
+
+Because we’re **volunteer-run**, we always welcome:
+
+- Workshop presenters and helpers  
+- Content writers and reviewers  
+- Community / comms volunteers  
+
+:::
+:::
+
+---
+
+## Stay in touch
+
+Stay up to date with workshops, modules, and opportunities:
+
+- Follow our announcements on the club channels  
+- Join the mailing list 
+- Keep an eye on this site for new material  
+
+If you have ideas for workshops, modules, or collaborations, we’d love to hear from you.
+
+[Contact us](about.qmd#contact){.btn .btn-primary}
