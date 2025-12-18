@@ -1,4 +1,4 @@
 - source: project
   netlify:
-    - id: "9ce29d9e-502f-4ca1-9588-489fbc5c5533"
-      url: "https://unsw-coders.netlify.app/"
+    - id: 9ce29d9e-502f-4ca1-9588-489fbc5c5533
+      url: https://unsw-coders.netlify.app
