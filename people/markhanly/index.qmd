@@ -1,5 +1,5 @@
 ---
-image: mark.jpg
+image: mark.jpeg
 title: Dr. Mark Hanly
 description: Senior Lecturer
 about:
@@ -13,7 +13,6 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/MarkHanly
-
 ---
 
 Mark is a Senior Lecturer and applied social statistician based at the Centre for Big Data Research in Health, UNSW Sydney. His research focuses on the analysis of large, linked administrative datasets to answer research questions related to the health and social wellbeing of populations. Topics of interest include early childhood health and development, health service utilisation, Indigenous health, and outcomes for vulnerable populations. As an applied social statistician, he is interested in statistical methods for answering causal questions using observational data; summarising and modelling complex longitudinal data; and innovative approaches for visualising data and communicating research. Mark convenes and teaches the course HDAT9700 Statistical Modelling II as part of the MSc in Health Data Science.
