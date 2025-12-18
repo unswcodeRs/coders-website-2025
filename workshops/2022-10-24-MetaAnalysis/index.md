@@ -14,7 +14,7 @@ links:
 abstract: In this workshop, we will first go through the ‘workflow’ of what a meta-analysis in R entails. We will then run through some code together on a sample dataset to get a global effect size and heterogeneity, as well as run some meta-regression analyses of potentially important moderator variables. We will also create some plots that are commonly used in meta-analyses. The code we learn in this workshop can be adapted to any meta-analysis dataset from any field.
 ---
 
-<img src="metaanlysis-01.png" width=1000 style = "margin-left: 0px; margin-right: 0px; float:right;">
+<img src="metaanlysis-01.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;">
 
 
 ## Presenter bio:

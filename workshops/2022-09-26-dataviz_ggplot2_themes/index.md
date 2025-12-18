@@ -16,4 +16,4 @@ Workshop description: Tired of ggplot2’s default colour palette and grey backg
 
 Presenter Bio: Jess is a PhD candidate at UNSW, Sydney. Their project focuses on using artificial intelligence to automatically classify species of animals in camera trap images, and track their behaviour with video recordings.
 
-<img src="ggplot_poster.png" width=1000 style = "margin-left: 0px; margin-right: 0px; float:right;" >
+<img src="ggplot_poster.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >

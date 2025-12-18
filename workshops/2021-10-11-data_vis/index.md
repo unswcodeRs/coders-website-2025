@@ -16,7 +16,7 @@ abstract: |
 ---
 
 
-<img src="data_vis.png" width=1000 style = "margin-left: 0px; margin-right: 0px; float:right;" >
+<img src="data_vis.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
 
 
