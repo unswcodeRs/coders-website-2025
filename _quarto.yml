@@ -18,6 +18,8 @@ website:
         text: Workshops
       - href: resources.qmd
         text: Resources
+      - href: modules.qmd
+        text: Modules
       
 format:
   html:
