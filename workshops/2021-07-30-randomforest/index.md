@@ -1,22 +1,24 @@
 ---
 date: "2021-07-30"
 title: "Introduction to Classification Trees and Random Forests in R"
+author: José R. Ferrer-Paris
 links:
 - icon: video 
   # icon_pack: fas
   name: Workshop Recording
   url: https://bit.ly/2VrCFh4
-
 - icon: github
   icon_pack: fab
   name: github Material
   url: https://github.com/UNSW-codeRs/workshop-random-forests
-  
-abstract: |
-  "Random Forests" are used everywhere, and for good reason! Random Forest is a powerful and versatile machine learning algorithm that grows and combines multiple decision trees to create a "forest". It sounds very complex, but learning to use them is very intuitive, especially if you have a **USNW codeRs workshop** to help you.
+ 
 ---
 
-<img src="random_forest.png" width=1000 style = "margin-left: 0px; margin-right: 0px; float:right;" >
+<img src="random_forest.png" width='100%' style = "margin-left: 0px; margin-right: 0px; float:right;" >
+
+## Abstract
+
+ "Random Forests" are used everywhere, and for good reason! Random Forest is a powerful and versatile machine learning algorithm that grows and combines multiple decision trees to create a "forest". It sounds very complex, but learning to use them is very intuitive, especially if you have a **USNW codeRs workshop** to help you.
 
 ## Resources created by JR
 
