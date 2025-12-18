@@ -14,8 +14,6 @@ format:
     toc: false
 ---
 
-
-
 ::: {.hero}
 Welcome to **UNSW codeRs** — a volunteer-run club at UNSW for anyone who uses (or wants to use) R for study, research, or fun.
 
@@ -77,81 +75,11 @@ One-on-one or small-group mentoring with more experienced R users.
 A friendly help channel and community events for asking questions,
 debugging code, and sharing tips.
 
-[Get help](https://teams.microsoft.com/l/channel/19%3AxBTqExJp_Cqnk6EqiiSdK-kp99-8CLR1VQToJLntkco1%40thread.tacv2/R%20Help!?groupId=b0a276aa-fc23-4036-98e7-eddea1eac2ba&tenantId=3ff6cfa4-e715-48db-b8e1-0867b9f9fba3&ngc=true&allowXTenantAccess=true){.btn .btn-outline-primary .btn-sm}
+[Get help](help.qmd){.btn .btn-outline-primary .btn-sm}
 :::
 :::
 
 :::
-
----
-
-## Upcoming workshops
-
-Our **workshop schedule** includes both on-campus and online events, plus occasional joint events with other groups.
-
-::: {.callout-note}
-### External workshop schedule
-
-We also maintain a curated list of external R workshops, conferences, and online events that might interest UNSW students and staff.
-
-[See the full workshop schedule](workshops.qmd)
-:::
-
-If you miss a session, you can still follow along with the materials later.
-
----
-
-## Online learning modules
-
-Our online modules are designed to be:
-
-- **Chunked** – each module focuses on one idea  
-- **Practical** – lots of worked examples in R  
-- **Reproducible** – built with Quarto and R Markdown  
-
-A typical module includes:
-
-- A short overview of the topic  
-- Step-by-step examples in R  
-- Practice exercises  
-- Links to additional resources  
-
----
-
-## Mentoring & peer support
-
-We believe people learn R best **together**.
-
-### Mentoring
-
-- Match with a mentor for a term  
-- Get help interpreting documentation and error messages  
-- Learn best practices for structuring projects and analyses  
-
-### Peer learning
-
-We also run occasional:
-
-- Code-along sessions  
-- Show-and-tell events  
-- Study groups around specific topics or packages  
-
----
-
-## Get help with R
-
-If you’re stuck, you don’t have to stay stuck.
-
-We encourage you to:
-
-1. Share a minimal reproducible example (we can help you with this)  
-2. Tell us what you tried and what you expected  
-3. Paste in error messages (they’re useful, not embarrassing!)  
-
-You can reach our help channel via:
-
-- Club communication platforms (e.g. Teams)  
-- Drop-in help sessions (when scheduled)  
 
 ---
 

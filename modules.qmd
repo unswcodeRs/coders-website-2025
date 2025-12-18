@@ -1,6 +1,23 @@
 ---
 title: "Online Learning"
-editor: visual
 ---
 
-## This page is still under construction. Stay tuned!
+## Online learning modules
+
+Our online modules are designed to be:
+
+- **Chunked** – each module focuses on one idea  
+- **Practical** – lots of worked examples in R  
+- **Reproducible** – built with Quarto and R Markdown  
+
+A typical module includes:
+
+- A short overview of the topic  
+- Step-by-step examples in R  
+- Practice exercises  
+- Links to additional resources  
+
+::: {.callout-caution}
+## Under construction
+This page is still under construction. Stay tuned!
+:::

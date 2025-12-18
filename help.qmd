@@ -1,0 +1,19 @@
+## Get help with R
+
+If you’re stuck, you don’t have to stay stuck.
+
+We encourage you to:
+
+1. Share a minimal reproducible example (we can help you with this)  
+2. Tell us what you tried and what you expected  
+3. Paste in error messages (they’re useful, not embarrassing!)  
+
+You can reach our help channel via:
+
+- Club communication platforms (e.g. Teams)  
+- Drop-in help sessions (when scheduled)  
+
+
+---
+
+[Get help on our Teams channel!](https://teams.microsoft.com/l/channel/19%3AxBTqExJp_Cqnk6EqiiSdK-kp99-8CLR1VQToJLntkco1%40thread.tacv2/R%20Help!?groupId=b0a276aa-fc23-4036-98e7-eddea1eac2ba&tenantId=3ff6cfa4-e715-48db-b8e1-0867b9f9fba3&ngc=true&allowXTenantAccess=true){.btn .btn-outline-primary .btn-sm}

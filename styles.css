@@ -1,5 +1,5 @@
 /* css styles */
-```css
+css
 /* 1. Most common selector for banner subtitles */
 .quarto-title-block .quarto-title-meta-subtitle {
   color: #ffffff !important;
@@ -24,7 +24,7 @@
 }
 
 .logo {
-  height: 55px;
+  /*height: 55px;*/
   vertical-align: middle;
   margin-right: .5rem;
 }
@@ -37,7 +37,7 @@
 
 /* Brand/logo area on the left */
 .navbar .navbar-brand {
-  display: flex;
+  display: flex; 
   align-items: center;
   font-weight: 700;
   color: #000 !important;
