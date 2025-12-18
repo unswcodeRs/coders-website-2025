@@ -17,4 +17,7 @@ A typical module includes:
 - Practice exercises  
 - Links to additional resources  
 
-## This page is still under construction. Stay tuned!
+::: {.callout-caution}
+## Under construction
+This page is still under construction. Stay tuned!
+:::
