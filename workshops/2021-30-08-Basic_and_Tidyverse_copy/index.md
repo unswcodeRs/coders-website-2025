@@ -16,7 +16,7 @@ links:
 abstract: |
   R is becoming a standard method for analysing data, yet at first R can be overwhelming and may seem like a foreign language. In this workshop, you will be introduced to the coding language R, the software RStudio, and a tool called tidyverse.
 ---
-<img src="getting_started.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
+<img src="getting_started.png" width=1000 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
 
 

@@ -15,7 +15,7 @@ abstract: |
   This workshop invites R users with basic/intermediate knowledge who are interested in learning how to build a personal website using the Blogdown package (no prior knowledge with Blogdown is required).
 ---
 
-<img src="blogdown.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;" >
+<img src="blogdown.png" width=1250 style = "margin-left: 0px; margin-right: 0px; float:right;" >
 
 ## Resources created by Jenny and Tehilla  
 - See the links above for the slides and the recording from the workshop
