@@ -77,7 +77,7 @@ One-on-one or small-group mentoring with more experienced R users.
 A friendly help channel and community events for asking questions,
 debugging code, and sharing tips.
 
-[Get help](help.qmd){.btn .btn-outline-primary .btn-sm}
+[Get help](https://teams.microsoft.com/l/channel/19%3AxBTqExJp_Cqnk6EqiiSdK-kp99-8CLR1VQToJLntkco1%40thread.tacv2/R%20Help!?groupId=b0a276aa-fc23-4036-98e7-eddea1eac2ba&tenantId=3ff6cfa4-e715-48db-b8e1-0867b9f9fba3&ngc=true&allowXTenantAccess=true){.btn .btn-outline-primary .btn-sm}
 :::
 :::
 

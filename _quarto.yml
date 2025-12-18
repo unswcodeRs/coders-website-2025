@@ -9,7 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: About  
+        text: About
+      - href: people.qmd
+        text: People
+      - href: mentoring.qmd
+        text: Mentoring
       - href: workshops.qmd
         text: Workshops
       - href: resources.qmd
