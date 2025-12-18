@@ -11,7 +11,7 @@ links:
 abstract: |
   Phylogenetic trees: How to find them and make them pretty
 ---
-<img src="Phylogenetic_trees.png" width=1450 style = "margin-left: 0px; margin-right: 0px; float:right;">
+<img src="Phylogenetic_trees.png" width=1000 style = "margin-left: 0px; margin-right: 0px; float:right;">
 
 This workshop will:
 

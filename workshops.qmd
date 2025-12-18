@@ -2,6 +2,7 @@
 title: "workshops"
 listing:
   contents: workshops
+  sort: "date desc"
   type: default
 format: html
 ---

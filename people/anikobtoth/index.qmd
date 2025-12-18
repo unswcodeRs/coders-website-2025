@@ -1,10 +1,21 @@
 ---
 image: avatar.jpg
+title: Dr. Anikó B. Tóth
+description: Postdoctoral Research Fellow
 about:
   template: trestles
-  image-width: 10em
+  image-width: 15em
   image-shape: round
-title: Dr. Anikó B. Tóth
+  links:
+    - icon: globe
+      text: Website
+      href: https://anikobtoth.wixsite.com/anikobtoth/about-me
+    - icon: github
+      text: GitHub
+      href: https://github.com/anikobtoth
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-3063-1917
 ---
 
 Anikó is currently a postdoctoral Research Fellow at the Centre for Ecosystem Science at UNSW. She works on classification, predictive modelling, and risk assessment for ecosystems around the world, with a focus on Antarctic ecosystems. Her research encompasses ecosystem change under disturbances, including anthropogenic activity, climate change, and extinction. Her research interests include community assembly processes of animals and plants and linking changes on contemporary and geological timescales. As a longtime user of R, Anikó is passionate about helping researchers improve their digital literacy and coding skills. She completed her PhD at Macquarie University in 2019 and served as the president of the R users group at Macquarie University for two years in 2018-2019.
