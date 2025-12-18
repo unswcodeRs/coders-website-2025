@@ -1,0 +1,34 @@
+---
+title: "Mentoring"
+---
+
+
+# Want your own R mentor?
+
+UNSW codeRs runs a mentoring program for anyone looking for one-on-one help to upskill or begin using R. You will be matched with a mentor whose expertise fits with your coding goals. This program may be especially useful for: 
+
+- HDR students who need to begin using R for their project
+
+- Students or staff looking to scale up their analysis and reproducibility skills
+
+- Students or staff needing to learn a new skill, such as HPC or Shiny
+
+Matchups in 2026 will proceed on a rolling basis as our mentors become available, so be sure to fill out the EOI early!
+
+[EOI for prospective mentees](https://forms.office.com/r/Qi5PDqbTeX)
+
+# For mentors
+
+We're looking for R users to join our community as volunteer coding mentors! If you enjoy helping others grow their skills, this is a great opportunity to share your knowledge, support emerging analysts, and strengthen your own understanding through teaching. 
+
+Mentors gain access to a network of like-minded professionals, recognition for their contribution, and the satisfaction of guiding learners through real challenges in data analysis and visualization. For early career researchers, this is a great way to boost your CV and show your teaching impact. If you're passionate about R and want to make a positive impact, we invite you to submit an Expression of Interest and become part of our register of mentors. 
+
+[EOI for prospective mentors](https://forms.office.com/r/LjcjyxcEb6)
+
+
+# Socials
+
+UNSW codeRs will periodically hold socials for current participants (mentors and mentees) in the mentoring program. 
+
+Mentoring luncheon for the pilot program in 2025
+![](images/mentor_program_luncheon_2025.jpg)

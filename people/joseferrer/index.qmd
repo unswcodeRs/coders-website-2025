@@ -15,7 +15,7 @@ about:
     - icon: orcid
       text: ORCID
       href: https://orcid.org/0000-0002-9554-3395
-    - icon: globe
+    - icon: person-vcard
       text: Staff page
       href: https://www.unsw.edu.au/staff/jose-ferrer-paris
 title: Dr. José R. Ferrer-Paris

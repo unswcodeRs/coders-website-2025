@@ -7,3 +7,19 @@ listing:
 format: html
 ---
 
+## Upcoming workshops
+
+Our **workshop schedule** includes both on-campus and online events, plus occasional joint events with other groups.
+
+::: {.callout-note}
+### External workshop schedule
+
+We also maintain a curated list of external R workshops, conferences, and online events that might interest UNSW students and staff.
+
+:::
+
+If you miss a session, you can still follow along with the materials later.
+
+## Past workshops
+
+Please see below a list of past workshops with links to workshop materials.
