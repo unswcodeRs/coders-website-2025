@@ -1,131 +1,142 @@
 ---
-title: "UNSW codeRs"
 page-layout: full
-title-block-banner: true
-title-block-banner-color: "#003b5c"   # UNSW-ish dark blue
-title-block-banner-opacity: 0.40
-subtitle: "A community for R users at UNSW"
-description: "UNSW codeRs is a volunteer-run club that supports R users at UNSW through workshops, mentoring, online learning modules, and a friendly help channel."
 format:
   html:
+    code-tools: false
     theme:
-      light: flatly
-      dark: darkly
+      light: [flatly, light_theme.scss]
+      dark: [darkly, dark_theme.scss]
+    css: styles.css
     toc: false
 ---
 
-::: {.hero}
+::: {.hero style="text-align:center;"}
 Welcome to **UNSW codeRs** — a volunteer-run club at UNSW for anyone who uses (or wants to use) R for study, research, or fun.
 
 We run regular workshops, maintain online resources, and provide a friendly space to ask questions, share projects, and learn together.
 :::
 
-::: {.mt-4 .mb-4}
-[Get involved](#get-involved){.btn .btn-primary .me-2}
-[View workshops](workshops.qmd){.btn .btn-outline-primary}
+::: {.mt-4 .mb-4 style="text-align:center;"}
+[Get involved](#get-involved){.btn .btn-primary .me-2} [View calendar](calendar.qmd){.btn .btn-outline-primary}
 :::
 
----
+::: {.column-screen-inset}
+<iframe src="https://outlook.office365.com/owa/calendar/e7dd8f252e664856930ae57ff344d3dd@unsw.edu.au/84e4b19fdf624b3da1cdcca2fc4bc16b1620866545866964649/calendar.html" 
+        style="border: 0" 
+        width="1200"
+        height="700" 
+        frameborder="0" 
+        scrolling="yes">
+</iframe>
+:::
 
+----
 
+::: {.center style="text-align:center;"}
 ## What we do
+:::
 
-
-::: {.what-grid}
-
-::: {.card .h-100}
+::::::::::: {.main-grid style="text-align:center;"}
+:::: {.card .h-100}
 ![](images/workshops.jpg){.card-img-top .modules-img}
 
 ::: {.card-body}
 ### Workshops
-Hands-on R workshops during term and intensives between terms, covering
-R basics, data wrangling, visualisation, modelling, and more.
+
+Hands-on R workshops during term and intensives between terms, covering R basics, data wrangling, visualisation, modelling, and more.
 
 [View workshops](workshops.qmd){.btn .btn-outline-primary .btn-sm}
 :::
-:::
+::::
 
-::: {.card .h-100}
+:::: {.card .h-100}
 ![](images/modules.png){.card-img-top .modules-img}
 
 ::: {.card-body}
 ### Online modules
-Self-paced R learning modules on R &amp; RStudio, dplyr, ggplot2, Quarto, and more.
+
+Self-paced R learning modules on R & RStudio, dplyr, ggplot2, Quarto, and more.
 
 [Browse modules](modules.qmd){.btn .btn-outline-primary .btn-sm}
 :::
-:::
+::::
 
-::: {.card .h-100}
+:::: {.card .h-100}
 ![](images/mentoring.jpg){.card-img-top .modules-img}
 
 ::: {.card-body}
 ### Mentoring
+
 One-on-one or small-group mentoring with more experienced R users.
 
 [Mentoring info](mentoring.qmd){.btn .btn-outline-primary .btn-sm}
 :::
-:::
+::::
 
-::: {.card .h-100}
+:::: {.card .h-100}
 ![](images/help-community.jpg){.card-img-top .modules-img}
 
 ::: {.card-body}
 ### Help & community
-A friendly help channel and community events for asking questions,
-debugging code, and sharing tips.
+
+A friendly help channel and community events for asking questions, debugging code, and sharing tips.
 
 [Get help](help.qmd){.btn .btn-outline-primary .btn-sm}
 :::
-:::
+::::
+:::::::::::
 
-:::
+----
 
----
-
+::: {.center-list style="text-align:center;"}
 ## Get involved
 
 Whether you’re brand-new to R or an experienced user, there’s a place for you in UNSW codeRs.
+:::
 
-:::{.columns}
-::: {.column}
+:::::: {layout-ncol=3 style="text-align:center;"}
+::: {.center-list}
 ### If you’re new to R
 
-- Come to an **intro workshop**  
-- Try the **“Getting started with R”** module  
-- Join the help channel and say hi
+  * Come to an **intro workshop**
+  * Try the **“Getting started with R”** module
+  * Join the help channel and say hi
 :::
 
-::: {.column}
+::: {.center-list}
 ### If you already use R
 
-- Attend intermediate/advanced workshops  
-- Share your tricks in the help channel  
-- Contribute to modules or examples
+  * Attend intermediate/advanced workshops
+  * Share your tricks in the help channel
+  * Contribute to modules or examples
 :::
 
-::: {.column}
+::: {.center-list}
 ### If you want to volunteer
 
 Because we’re **volunteer-run**, we always welcome:
 
-- Workshop presenters and helpers  
-- Content writers and reviewers  
-- Community / comms volunteers  
-
+  * Workshop presenters and helpers
+  * Content writers and reviewers
+  * Community / communiqué volunteers
 :::
-:::
+::::::
 
----
+----
 
+::: {.center-list style="text-align:center;"}
 ## Stay in touch
 
 Stay up to date with workshops, modules, and opportunities:
 
-- Follow our announcements on the club channels  
-- Join the mailing list 
-- Keep an eye on this site for new material  
+  * Follow our announcements on the club channels
+  * Join the mailing list
+  * Keep an eye on this site for new material
+:::
 
-If you have ideas for workshops, modules, or collaborations, we’d love to hear from you.
+
+::: {.center-list style="text-align:center;"}
+If you have ideas for workshops, modules, or collaborations, we’d love to hear from you!
 
 [Contact us](about.qmd#contact){.btn .btn-primary}
+:::

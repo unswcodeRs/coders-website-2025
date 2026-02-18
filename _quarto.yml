@@ -23,9 +23,50 @@ website:
       
 format:
   html:
-    theme: flatly
-    css: styles.css
     toc: true
+    toc-location: left
+    toc-depth: 4
+    toc-title: Contents
+    toc_float: true
+    code-link: true
+    code-fold: false # updated to false from true
+    code-line-numbers: true
+    code-copy: true
+    code-summary: "Show the code"
+    code-tools: true
+    code-block-bg: true
+    linkcolor: "#3f61c4"
+    highlight-style: atom-one #change
+    smooth-scroll: true
+    fig-width: 10
+    fig-height: 6
+    code-overflow: wrap # this code and the "include-in-header" code give the wrapping in-text
+    include-in-header: 
+          - text: |
+              <style type="text/css">
+              pre.numberSource {
+                margin: 0
+              }
+              pre.numberSource code > span {
+                left: 0;
+              }
+              </style>
+    title-block-banner: "#ffdc00"  #"#007882" = how to change the colour of the banner itself, 'true' otherwise
+    title-block-banner-color: "#000000" # colour of text in banner
+    citations-hover: true
+    #copyright: "Copyright UNSW CodeRs. All Rights Reserved" # you can use the below code in HTML instead of in CSS to work around not having a .yml file (only for UNSW CodeRs usage)
+    code-annotations: hover
+    include-after-body: 
+             text: |
+              <style>
+              footer {
+                text-align: center;   }
+              </style>
+               <footer class="footer"><p class="demoTitle">Licensed&nbsp;<span style="color: #3f61c4;"><a style="color: #3f61c4;" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">[CC BY-NC-SA 4.0]</a></span>&nbsp;<img src="https://creativecommons.org/images/deed/cc_icon_black_x2.png" alt="" width="20" height="20" />&nbsp;UNSW CodeRs&nbsp;<img src="images/logo.png" alt="" width="20" height="20" /></p></footer>
+    theme:
+      light: [flatly, light_theme.scss]
+      dark: [darkly, dark_theme.scss]
+    css: styles.css
 
 
 
