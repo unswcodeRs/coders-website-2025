@@ -1,0 +1,61 @@
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: #2b282acf;
+$body-color: #ffdc00;
+$link-color: #75AADB;
+$navbar-bg:  #ffdc00;
+
+// Code blocks
+$code-block-bg: #e2e5e9ff;
+/*$code-block-bg-alpha: -.9;
+
+
+/*-- scss:rules --*/
+.sitemap {
+  margin: 1em 0;
+  border: 2px solid gray;
+  border-left: 10px solid teal; 
+  border-radius: 10px;
+  background-color: white;
+  padding: 0; /* Ensure no unwanted padding */
+}
+
+/* Style the first child element (assumed to be the header) */
+.sitemap > *:first-child {
+  margin: 0;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 55px;
+  color: black;
+  background-color: white;
+  border-top-right-radius: 10px;
+  font-size: 1em;
+  font-weight: bold;
+  display: flex;
+  align-items: center; /* Vertically center the icon with text */
+  position: relative;
+  min-height: 45px; /* Ensures space for the icon */
+
+  /* Add the icon as a background image */
+  background-image: url('/images/logo.png');
+  background-size: 35px auto; /* Ensures the image scales properly */
+  background-repeat: no-repeat;
+  background-position: 10px center; /* Adjust position */
+}
+
+/* Style the rest of the content */
+.sitemap > *:not(:first-child) {
+  padding-top: 10px;
+  padding-left: 15px;
+  color: black;
+  background-color: white;
+  border-bottom-right-radius: 10px;
+}
+
+/* add padding around footer */
+.footer {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 20px;
+}
