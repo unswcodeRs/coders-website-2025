@@ -8,6 +8,8 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - href: calendar.qmd
+        text: Calendar
       - href: mentoring.qmd
         text: Mentoring
       - href: workshops.qmd

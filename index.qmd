@@ -20,17 +20,44 @@ We run regular workshops, maintain online resources, and provide a friendly spac
 [Get involved](#get-involved){.btn .btn-primary .me-2} [View calendar](calendar.qmd){.btn .btn-outline-primary}
 :::
 
-::: {.column-screen-inset}
-<iframe src="https://outlook.office365.com/owa/calendar/e7dd8f252e664856930ae57ff344d3dd@unsw.edu.au/84e4b19fdf624b3da1cdcca2fc4bc16b1620866545866964649/calendar.html" 
-        style="border: 0" 
-        width="1200"
-        height="700" 
-        frameborder="0" 
-        scrolling="yes">
-</iframe>
+
+----
+
+::: {.hero style="text-align:center;"}
+## Upcoming event
+:::
+
+:::{.columns}
+:::{.column width="50%"}
+![](images/2026_Community_Mixer_Flyer_branded-1.png){width='90%'}
+:::
+:::{.column width="50%"}
+
+### R community mixer
+
+aRe you using R? Feeling isolated?
+
+You R not alone!
+
+Come hang out with fellow R enthusiasts in a relaxed, in-person setting. It’s a great chance to find out about R user support across the university, swap ideas, share projects, and pick up new tips—all while enjoying some good company. Whether you’re a newbie or a pro, this mixer is the perfect spot to connect and have fun with the R community. Don’t miss out on the good vibes and cool conversations!
+
+Hosted by the UNSW codeRs Club and the R Appreciation Society, this is your chance to
+
+Meet and mingle with other R users from all corners of the university
+Discover R-related groups, initiatives, and support networks already active on campus
+Share your projects and ideas in interactive sessions with other R users with similar interests.
+
+
+All students and staff at any career stage are welcome. Come and meet someone new!
+
+[Register here!](https://www.eventbrite.com.au/e/r-community-mixer-tickets-1985411810170).
+
+Free event, registration is essential for catering purposes.
+:::
 :::
 
 ----
+
 
 ::: {.center style="text-align:center;"}
 ## What we do

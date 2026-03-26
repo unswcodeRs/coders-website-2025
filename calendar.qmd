@@ -5,14 +5,10 @@ format:
     code-tools: false
 ---
 
-Here is the UNSW codeRs public calendar:
+Here is the UNSW R Training calendar with events organised by UNSW codeRs, Restech, Stats Central and others!
 
 ::: {.column-screen-inset}
-<iframe src="https://outlook.office365.com/owa/calendar/e7dd8f252e664856930ae57ff344d3dd@unsw.edu.au/84e4b19fdf624b3da1cdcca2fc4bc16b1620866545866964649/calendar.html" 
-        style="border: 0" 
-        width="800" 
-        height="600" 
-        frameborder="0" 
-        scrolling="no">
-</iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=b0163bb52427fd2aeb22823f12ff92199ec49874305b6bf34d70d2a81ce7c13b%40group.calendar.google.com&ctz=Australia%2FSydney%22" 
+  style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 :::
+
