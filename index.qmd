@@ -24,7 +24,7 @@ We run regular workshops, maintain online resources, and provide a friendly spac
 ----
 
 ::: {.hero style="text-align:center;"}
-## Upcoming event
+## Recent events
 :::
 
 :::{.columns}
